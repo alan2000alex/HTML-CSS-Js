@@ -1,0 +1,29 @@
+body {
+    font-family: Helvetica;
+  }
+li {
+    list-style: none;
+}
+a:link, a:visited {
+    text-decoration: none;
+    background-color: rgb(190, 147, 229);
+    display: block;
+    width:200px;
+}
+a:hover, a:active {
+    background-color: crimson;
+}
+p {
+    color: rgb(0, 162, 255);
+    font-size: 20px;			
+}
+div {
+    color:rgb(21, 92, 245);			
+}
+h1 {
+    color :blueviolet;
+    text-align: center;
+}
+#center {
+    text-align: center;
+}
