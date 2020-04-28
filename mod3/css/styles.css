@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-size: 16px;
+    background-color: rgb(14, 145, 226);
+    font-family: 'Oxygen', sans-serif;
+}
+.navbar-default .navbar-brand {     /*Brand Color*/
+    color: seagreen;
+    font-weight: 1000;
+    font-size: 0.8em;
+    height: max-content;
+    /* overflow: hidden; */
+    /* margin-top: -10; */
+    padding: 0;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    /* float: left; */
+    /*margin-left: 10; */
+}
+
+.navbar-toggle {
+    background-color: teal;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: whitesmoke;
+}
+#header-nav {
+    background-color: rgb(193, 221, 226);
+    border-radius: 0;
+    /* border: 0; */
+}
+#mod {
+    background-color: whitesmoke;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+}
+/* #header-nav .container-fluid .navbar-header {
+    height: fit-content;
+    overflow: scroll;
+} */
+
+h2 { 
+    margin: auto;
+    margin-bottom: 40px;
+    color: snow;
+}
+#fill {
+    background-color: rgb(191, 212, 216);
+}
+.jumbotron {
+    margin: 0;
+    padding: 05;
+}
+h3 {
+    /* margin: auto; */
+    font-size: 1.6em;
+    margin-top: 0;
+    padding: 10;
+}
+/* p {
+    padding: 10;
+} */
+
